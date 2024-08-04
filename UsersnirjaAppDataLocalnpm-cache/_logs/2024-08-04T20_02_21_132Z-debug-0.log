@@ -1,0 +1,19 @@
+0 verbose cli C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\npm\bin\npm-cli.js
+1 info using npm@10.8.1
+2 info using node@v20.16.0
+3 silly config load:file:C:\Program Files\nodejs\node_modules\npm\npmrc
+4 silly config load:file:C:\Users\nirja\AppData\Roaming\react app\my-app\.npmrc
+5 silly config load:file:C:\Users\nirja\.npmrc
+6 silly config load:file:C:\Users\nirja\AppData\Roaming\react app\my-app\UsersnirjaAppDataRoamingnpm\etc\npmrc
+7 verbose title npm install react-router-dom
+8 verbose argv "install" "react-router-dom"
+9 verbose logfile logs-max:10 dir:C:\Users\nirja\AppData\Roaming\react app\my-app\UsersnirjaAppDataLocalnpm-cache\_logs\2024-08-04T20_02_21_132Z-
+10 verbose logfile C:\Users\nirja\AppData\Roaming\react app\my-app\UsersnirjaAppDataLocalnpm-cache\_logs\2024-08-04T20_02_21_132Z-debug-0.log
+11 silly packumentCache heap:4345298944 maxSize:1086324736 maxEntrySize:543162368
+12 silly logfile start cleaning logs, removing 1 files
+13 silly logfile done cleaning log files
+14 silly idealTree buildDeps
+15 silly fetch manifest react-router-dom@*
+16 silly packumentCache full:https://registry.npmjs.org/react-router-dom cache-miss
+17 http fetch GET https://registry.npmjs.org/react-router-dom attempt 1 failed with ENOENT
+18 http fetch GET https://registry.npmjs.org/react-router-dom attempt 2 failed with ENOENT
